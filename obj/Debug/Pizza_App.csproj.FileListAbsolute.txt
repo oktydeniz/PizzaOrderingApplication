@@ -1,0 +1,20 @@
+C:\Users\oktay\Documents\Ybs\C#\Pizza_App\bin\Debug\Pizza_App.exe.config
+C:\Users\oktay\Documents\Ybs\C#\Pizza_App\bin\Debug\Pizza_App.exe
+C:\Users\oktay\Documents\Ybs\C#\Pizza_App\bin\Debug\Pizza_App.pdb
+C:\Users\oktay\Documents\Ybs\C#\Pizza_App\obj\Debug\Pizza_App.csprojAssemblyReference.cache
+C:\Users\oktay\Documents\Ybs\C#\Pizza_App\obj\Debug\Pizza_App.Form1.resources
+C:\Users\oktay\Documents\Ybs\C#\Pizza_App\obj\Debug\Pizza_App.Properties.Resources.resources
+C:\Users\oktay\Documents\Ybs\C#\Pizza_App\obj\Debug\Pizza_App.csproj.GenerateResource.cache
+C:\Users\oktay\Documents\Ybs\C#\Pizza_App\obj\Debug\Pizza_App.csproj.CoreCompileInputs.cache
+C:\Users\oktay\Documents\Ybs\C#\Pizza_App\obj\Debug\Pizza_App.exe
+C:\Users\oktay\Documents\Ybs\C#\Pizza_App\obj\Debug\Pizza_App.pdb
+E:\C# Programlama\Pizza_App\bin\Debug\Pizza_App.exe.config
+E:\C# Programlama\Pizza_App\bin\Debug\Pizza_App.exe
+E:\C# Programlama\Pizza_App\bin\Debug\Pizza_App.pdb
+E:\C# Programlama\Pizza_App\obj\Debug\Pizza_App.csprojAssemblyReference.cache
+E:\C# Programlama\Pizza_App\obj\Debug\Pizza_App.Form1.resources
+E:\C# Programlama\Pizza_App\obj\Debug\Pizza_App.Properties.Resources.resources
+E:\C# Programlama\Pizza_App\obj\Debug\Pizza_App.csproj.GenerateResource.cache
+E:\C# Programlama\Pizza_App\obj\Debug\Pizza_App.csproj.CoreCompileInputs.cache
+E:\C# Programlama\Pizza_App\obj\Debug\Pizza_App.exe
+E:\C# Programlama\Pizza_App\obj\Debug\Pizza_App.pdb
